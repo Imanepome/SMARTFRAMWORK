@@ -1,0 +1,533 @@
+2026-04-26 18:55:45,438 - WARNING - FAILED LOGIN (Unknown user): imane chalabi | IP=192.168.1.5
+2026-04-26 18:57:02,729 - WARNING - FAILED LOGIN: imane  | Attempts=1 | IP=192.168.1.5
+2026-04-26 19:10:24,172 - WARNING - FAILED LOGIN: admin | Attempts=1 | IP=192.168.1.5
+2026-04-26 19:21:43,526 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-26 19:22:47,392 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-26 19:22:52,706 - WARNING - From C:\Users\ARWA STORE computers\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-04-28 17:49:37,157 - WARNING - FAILED LOGIN (Unknown user):  | IP=127.0.0.1
+2026-04-28 17:49:52,396 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=127.0.0.1
+2026-04-28 17:54:35,699 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-28 17:54:41,347 - WARNING - From C:\Users\ARWA STORE computers\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-04-28 18:53:15,934 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-28 19:06:56,113 - WARNING - FAILED LOGIN (Unknown user):  | IP=192.168.1.5
+2026-04-28 19:06:56,706 - WARNING - FAILED LOGIN (Unknown user):  | IP=192.168.1.5
+2026-04-28 19:20:44,702 - WARNING - FAILED LOGIN (Unknown user):  | IP=192.168.1.5
+2026-04-28 19:26:33,834 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-28 19:27:12,243 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-04-28 19:27:14,556 - WARNING - From C:\Users\ARWA STORE computers\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-04-28 19:28:49,946 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-28 19:29:37,750 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-28 19:32:44,503 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-28 19:43:33,936 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-28 21:10:11,578 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-28 21:10:42,679 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-28 21:14:09,853 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-28 21:33:26,145 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-28 21:39:39,827 - WARNING - From C:\Users\ARWA STORE computers\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-04-28 21:40:44,044 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-28 21:49:11,171 - WARNING - From C:\Users\ARWA STORE computers\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-04-28 23:44:44,579 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-28 23:45:52,363 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-28 23:49:27,572 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-28 23:56:48,266 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-04-29 01:24:51,973 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-01 12:50:00,204 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-01 14:08:24,673 - INFO - package: mysql.connector.plugins
+2026-05-01 14:08:24,677 - INFO - plugin_name: mysql_native_password
+2026-05-01 14:08:24,682 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-01 14:08:25,016 - INFO - SUCCESS LOGIN: ahmed khalil | Role=user | IP=192.168.1.5
+2026-05-01 14:10:49,466 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 14:52:13,420 - INFO - package: mysql.connector.plugins
+2026-05-02 14:52:13,421 - INFO - plugin_name: mysql_native_password
+2026-05-02 14:52:13,424 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-02 14:52:13,845 - INFO - SUCCESS LOGIN: ahmed khalil | Role=user | IP=127.0.0.1
+2026-05-02 14:52:46,813 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=127.0.0.1
+2026-05-02 15:25:28,842 - WARNING - FAILED LOGIN: admin | Attempts=1 | IP=192.168.1.5
+2026-05-02 15:25:43,364 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 15:27:26,902 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 15:31:51,127 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 17:32:15,716 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 17:55:04,373 - INFO - package: mysql.connector.plugins
+2026-05-02 17:55:04,377 - INFO - plugin_name: mysql_native_password
+2026-05-02 17:55:04,380 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-02 17:55:04,712 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 17:56:26,951 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-02 17:56:29,381 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-02 18:06:02,982 - INFO - package: mysql.connector.plugins
+2026-05-02 18:06:02,983 - INFO - plugin_name: mysql_native_password
+2026-05-02 18:06:02,985 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-02 18:06:03,422 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 18:18:28,765 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 18:20:04,943 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 18:24:34,355 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 18:27:02,355 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-02 18:27:48,390 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 18:31:27,730 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 18:41:37,477 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-02 18:45:59,416 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=127.0.0.1
+2026-05-02 18:53:33,466 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 18:56:37,178 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 19:00:02,916 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 19:04:22,877 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 19:09:34,429 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 19:12:17,417 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-02 19:14:48,499 - INFO - package: mysql.connector.plugins
+2026-05-02 19:14:48,499 - INFO - plugin_name: mysql_native_password
+2026-05-02 19:14:48,501 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-02 19:14:48,960 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-06 00:06:21,125 - INFO - package: mysql.connector.plugins
+2026-05-06 00:06:21,129 - INFO - plugin_name: mysql_native_password
+2026-05-06 00:06:21,132 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-06 00:06:21,466 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.9
+2026-05-06 00:10:51,573 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.9
+2026-05-06 00:23:40,866 - INFO - package: mysql.connector.plugins
+2026-05-06 00:23:40,866 - INFO - plugin_name: mysql_native_password
+2026-05-06 00:23:40,868 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-06 00:23:41,201 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.9
+2026-05-06 00:28:48,866 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.9
+2026-05-06 00:32:56,757 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.9
+2026-05-06 00:33:41,900 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.9
+2026-05-06 00:34:42,223 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.9
+2026-05-06 00:36:03,797 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-06 00:36:06,542 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-06 00:42:16,361 - INFO - package: mysql.connector.plugins
+2026-05-06 00:42:16,362 - INFO - plugin_name: mysql_native_password
+2026-05-06 00:42:16,367 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-06 00:42:16,735 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.9
+2026-05-06 00:42:36,734 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-06 00:42:40,307 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-06 00:55:48,120 - INFO - package: mysql.connector.plugins
+2026-05-06 00:55:48,120 - INFO - plugin_name: mysql_native_password
+2026-05-06 00:55:48,128 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-06 00:55:48,515 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.9
+2026-05-06 00:56:09,708 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-06 00:56:13,539 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-06 01:13:24,702 - INFO - package: mysql.connector.plugins
+2026-05-06 01:13:24,702 - INFO - plugin_name: mysql_native_password
+2026-05-06 01:13:24,711 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-06 01:13:25,043 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.9
+2026-05-06 01:14:02,427 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-06 01:14:05,963 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-06 01:24:05,412 - INFO - package: mysql.connector.plugins
+2026-05-06 01:24:05,413 - INFO - plugin_name: mysql_native_password
+2026-05-06 01:24:05,416 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-06 01:24:05,741 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.9
+2026-05-06 01:28:53,693 - INFO - package: mysql.connector.plugins
+2026-05-06 01:28:53,693 - INFO - plugin_name: mysql_native_password
+2026-05-06 01:28:53,697 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-06 01:28:54,118 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.9
+2026-05-06 01:29:11,702 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-06 01:29:15,319 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-06 01:48:00,086 - INFO - package: mysql.connector.plugins
+2026-05-06 01:48:00,086 - INFO - plugin_name: mysql_native_password
+2026-05-06 01:48:00,092 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-06 01:48:00,417 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.9
+2026-05-06 01:48:20,384 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-06 01:48:24,497 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-06 01:53:47,356 - INFO - package: mysql.connector.plugins
+2026-05-06 01:53:47,357 - INFO - plugin_name: mysql_native_password
+2026-05-06 01:53:47,359 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-06 01:53:47,683 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.9
+2026-05-06 01:54:11,378 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-06 01:54:15,076 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-09 10:56:10,644 - INFO - package: mysql.connector.plugins
+2026-05-09 10:56:10,645 - INFO - plugin_name: mysql_native_password
+2026-05-09 10:56:10,648 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-09 10:56:11,110 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-09 10:57:42,995 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-09 10:57:47,260 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-09 11:43:07,164 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-11 13:42:05,424 - INFO - package: mysql.connector.plugins
+2026-05-11 13:42:05,426 - INFO - plugin_name: mysql_native_password
+2026-05-11 13:42:05,428 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-11 13:42:05,816 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.0.104
+2026-05-11 14:11:16,235 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.0.104
+2026-05-11 14:28:44,458 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-11 14:28:48,591 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-11 22:05:43,471 - INFO - package: mysql.connector.plugins
+2026-05-11 22:05:43,476 - INFO - plugin_name: mysql_native_password
+2026-05-11 22:05:43,481 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-11 22:05:43,909 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-11 22:17:54,723 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-11 22:17:58,399 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-12 00:16:41,028 - INFO - package: mysql.connector.plugins
+2026-05-12 00:16:41,029 - INFO - plugin_name: mysql_native_password
+2026-05-12 00:16:41,033 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-12 00:16:41,373 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-12 00:32:01,041 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-12 00:32:02,875 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-12 01:28:25,402 - INFO - package: mysql.connector.plugins
+2026-05-12 01:28:25,403 - INFO - plugin_name: mysql_native_password
+2026-05-12 01:28:25,405 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-12 01:28:25,730 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-12 01:39:04,202 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-12 01:39:08,040 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-12 10:58:06,350 - INFO - package: mysql.connector.plugins
+2026-05-12 10:58:06,350 - INFO - plugin_name: mysql_native_password
+2026-05-12 10:58:06,354 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-12 10:58:06,725 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-12 11:04:29,530 - INFO - package: mysql.connector.plugins
+2026-05-12 11:04:29,530 - INFO - plugin_name: mysql_native_password
+2026-05-12 11:04:29,531 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-12 11:04:29,838 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-12 11:29:55,814 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-12 11:29:57,733 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-12 16:34:48,078 - INFO - package: mysql.connector.plugins
+2026-05-12 16:34:48,079 - INFO - plugin_name: mysql_native_password
+2026-05-12 16:34:48,082 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-12 16:34:48,540 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-12 16:35:42,370 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-12 16:35:46,310 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-12 22:30:46,261 - INFO - package: mysql.connector.plugins
+2026-05-12 22:30:46,261 - INFO - plugin_name: mysql_native_password
+2026-05-12 22:30:46,264 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-12 22:30:46,677 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-12 23:04:02,598 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.5
+2026-05-12 23:43:35,305 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-12 23:43:37,099 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-13 22:10:29,682 - INFO - package: mysql.connector.plugins
+2026-05-13 22:10:29,682 - INFO - plugin_name: mysql_native_password
+2026-05-13 22:10:29,685 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-13 22:10:30,026 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-14 16:48:15,090 - INFO - package: mysql.connector.plugins
+2026-05-14 16:48:15,091 - INFO - plugin_name: mysql_native_password
+2026-05-14 16:48:15,093 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-14 16:48:15,471 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-14 17:28:19,453 - INFO - package: mysql.connector.plugins
+2026-05-14 17:28:19,454 - INFO - plugin_name: mysql_native_password
+2026-05-14 17:28:19,457 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-14 17:28:19,743 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-14 17:35:59,608 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-14 17:38:22,602 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-14 17:42:02,406 - INFO - package: mysql.connector.plugins
+2026-05-14 17:42:02,406 - INFO - plugin_name: mysql_native_password
+2026-05-14 17:42:02,408 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-14 17:42:02,723 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-14 22:24:53,808 - INFO - package: mysql.connector.plugins
+2026-05-14 22:24:53,808 - INFO - plugin_name: mysql_native_password
+2026-05-14 22:24:53,818 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-14 22:24:54,171 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-14 23:19:57,780 - INFO - package: mysql.connector.plugins
+2026-05-14 23:19:57,781 - INFO - plugin_name: mysql_native_password
+2026-05-14 23:19:57,783 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-14 23:19:58,026 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-14 23:21:43,000 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-14 23:21:46,908 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-14 23:32:02,899 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-15 18:14:46,840 - INFO - package: mysql.connector.plugins
+2026-05-15 18:14:46,844 - INFO - plugin_name: mysql_native_password
+2026-05-15 18:14:46,859 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-15 18:14:48,809 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-15 18:41:23,009 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-15 22:05:42,017 - INFO - package: mysql.connector.plugins
+2026-05-15 22:05:42,017 - INFO - plugin_name: mysql_native_password
+2026-05-15 22:05:42,020 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-15 22:05:42,196 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-15 23:30:04,736 - WARNING - FAILED LOGIN (Unknown user):  | IP=192.168.1.11
+2026-05-15 23:37:48,808 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-15 23:41:43,507 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-16 00:26:35,480 - INFO - package: mysql.connector.plugins
+2026-05-16 00:26:35,480 - INFO - plugin_name: mysql_native_password
+2026-05-16 00:26:35,486 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-16 00:26:35,813 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-16 19:03:50,944 - INFO - package: mysql.connector.plugins
+2026-05-16 19:03:50,945 - INFO - plugin_name: mysql_native_password
+2026-05-16 19:03:50,951 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-16 19:03:51,350 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-16 19:27:33,436 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-16 19:41:01,869 - WARNING - FAILED LOGIN (Unknown user):  | IP=192.168.1.11
+2026-05-16 19:53:32,520 - INFO - package: mysql.connector.plugins
+2026-05-16 19:53:32,521 - INFO - plugin_name: mysql_native_password
+2026-05-16 19:53:32,523 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-16 19:53:32,841 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-16 22:04:23,620 - INFO - package: mysql.connector.plugins
+2026-05-16 22:04:23,621 - INFO - plugin_name: mysql_native_password
+2026-05-16 22:04:23,625 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-16 22:04:23,843 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-16 22:10:19,351 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-16 22:10:21,438 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-16 22:27:10,373 - INFO - package: mysql.connector.plugins
+2026-05-16 22:27:10,373 - INFO - plugin_name: mysql_native_password
+2026-05-16 22:27:10,375 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-16 22:27:10,680 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-16 22:44:51,909 - INFO - package: mysql.connector.plugins
+2026-05-16 22:44:51,909 - INFO - plugin_name: mysql_native_password
+2026-05-16 22:44:51,911 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-16 22:44:52,207 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-16 22:45:41,420 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-16 22:45:44,092 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-16 22:46:56,303 - INFO - package: mysql.connector.plugins
+2026-05-16 22:46:56,304 - INFO - plugin_name: mysql_native_password
+2026-05-16 22:46:56,305 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-16 22:46:56,615 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-16 22:48:52,738 - INFO - package: mysql.connector.plugins
+2026-05-16 22:48:52,738 - INFO - plugin_name: mysql_native_password
+2026-05-16 22:48:52,740 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-16 22:48:53,059 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-16 22:50:34,701 - INFO - package: mysql.connector.plugins
+2026-05-16 22:50:34,701 - INFO - plugin_name: mysql_native_password
+2026-05-16 22:50:34,702 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-16 22:50:35,014 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-16 22:54:53,311 - INFO - package: mysql.connector.plugins
+2026-05-16 22:54:53,311 - INFO - plugin_name: mysql_native_password
+2026-05-16 22:54:53,313 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-16 22:54:53,661 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-16 22:57:24,547 - INFO - package: mysql.connector.plugins
+2026-05-16 22:57:24,548 - INFO - plugin_name: mysql_native_password
+2026-05-16 22:57:24,550 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-16 22:57:24,883 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-16 22:59:03,489 - INFO - package: mysql.connector.plugins
+2026-05-16 22:59:03,490 - INFO - plugin_name: mysql_native_password
+2026-05-16 22:59:03,496 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-16 22:59:03,816 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-17 00:00:01,403 - INFO - package: mysql.connector.plugins
+2026-05-17 00:00:01,403 - INFO - plugin_name: mysql_native_password
+2026-05-17 00:00:01,409 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-17 00:00:01,763 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-17 00:07:45,988 - INFO - package: mysql.connector.plugins
+2026-05-17 00:07:45,988 - INFO - plugin_name: mysql_native_password
+2026-05-17 00:07:45,995 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-17 00:07:46,304 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-17 00:22:02,754 - INFO - package: mysql.connector.plugins
+2026-05-17 00:22:02,754 - INFO - plugin_name: mysql_native_password
+2026-05-17 00:22:02,760 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-17 00:22:03,091 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-17 00:22:30,506 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-17 00:22:33,980 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-17 10:24:29,936 - INFO - package: mysql.connector.plugins
+2026-05-17 10:24:29,936 - INFO - plugin_name: mysql_native_password
+2026-05-17 10:24:29,952 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-17 10:24:31,490 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=127.0.0.1
+2026-05-17 10:43:27,502 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-17 10:43:29,318 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-17 16:15:37,902 - INFO - package: mysql.connector.plugins
+2026-05-17 16:15:37,903 - INFO - plugin_name: mysql_native_password
+2026-05-17 16:15:37,905 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-17 16:15:38,296 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-17 16:18:44,154 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-17 16:18:47,754 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-17 23:40:30,413 - INFO - package: mysql.connector.plugins
+2026-05-17 23:40:30,413 - INFO - plugin_name: mysql_native_password
+2026-05-17 23:40:30,416 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-17 23:40:30,738 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-18 23:38:58,494 - INFO - package: mysql.connector.plugins
+2026-05-18 23:38:58,494 - INFO - plugin_name: mysql_native_password
+2026-05-18 23:38:58,498 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-18 23:38:58,908 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-19 18:24:26,343 - INFO - package: mysql.connector.plugins
+2026-05-19 18:24:26,343 - INFO - plugin_name: mysql_native_password
+2026-05-19 18:24:26,346 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-19 18:24:26,727 - WARNING - FAILED LOGIN: admin | Attempts=1 | IP=192.168.1.11
+2026-05-19 18:24:39,858 - WARNING - FAILED LOGIN: admin | Attempts=2 | IP=192.168.1.11
+2026-05-19 18:25:06,378 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-19 19:05:48,158 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-19 19:11:20,748 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-19 19:11:24,798 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-19 21:58:42,192 - INFO - package: mysql.connector.plugins
+2026-05-19 21:58:42,195 - INFO - plugin_name: mysql_native_password
+2026-05-19 21:58:42,204 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-19 21:58:43,601 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-19 22:04:22,796 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-19 22:04:33,454 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-21 18:50:03,985 - INFO - package: mysql.connector.plugins
+2026-05-21 18:50:03,986 - INFO - plugin_name: mysql_native_password
+2026-05-21 18:50:03,988 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-21 18:50:04,408 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-21 18:52:32,393 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-21 18:52:36,658 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-22 13:34:01,959 - INFO - package: mysql.connector.plugins
+2026-05-22 13:34:01,960 - INFO - plugin_name: mysql_native_password
+2026-05-22 13:34:01,963 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-22 13:34:02,411 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 14:06:44,357 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-22 14:06:48,255 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-22 14:41:25,204 - INFO - package: mysql.connector.plugins
+2026-05-22 14:41:25,205 - INFO - plugin_name: mysql_native_password
+2026-05-22 14:41:25,207 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-22 14:41:25,514 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=127.0.0.1
+2026-05-22 17:02:39,378 - INFO - package: mysql.connector.plugins
+2026-05-22 17:02:39,380 - INFO - plugin_name: mysql_native_password
+2026-05-22 17:02:39,388 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-22 17:02:41,022 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 17:05:34,849 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 17:21:01,247 - INFO - package: mysql.connector.plugins
+2026-05-22 17:21:01,247 - INFO - plugin_name: mysql_native_password
+2026-05-22 17:21:01,249 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-22 17:21:01,555 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 17:22:17,650 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 17:47:34,464 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 17:50:13,212 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 17:52:00,391 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 17:52:15,445 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 17:54:49,682 - INFO - package: mysql.connector.plugins
+2026-05-22 17:54:49,682 - INFO - plugin_name: mysql_native_password
+2026-05-22 17:54:49,684 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-22 17:54:50,013 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 17:56:31,606 - INFO - package: mysql.connector.plugins
+2026-05-22 17:56:31,606 - INFO - plugin_name: mysql_native_password
+2026-05-22 17:56:31,608 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-22 17:56:31,915 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:02:16,345 - INFO - package: mysql.connector.plugins
+2026-05-22 18:02:16,345 - INFO - plugin_name: mysql_native_password
+2026-05-22 18:02:16,348 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-22 18:02:16,696 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:08:09,703 - INFO - package: mysql.connector.plugins
+2026-05-22 18:08:09,703 - INFO - plugin_name: mysql_native_password
+2026-05-22 18:08:09,705 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-22 18:08:10,032 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:10:55,072 - INFO - package: mysql.connector.plugins
+2026-05-22 18:10:55,072 - INFO - plugin_name: mysql_native_password
+2026-05-22 18:10:55,076 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-22 18:10:55,373 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:11:03,327 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:11:05,985 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:11:42,289 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:12:09,900 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:15:41,782 - INFO - package: mysql.connector.plugins
+2026-05-22 18:15:41,782 - INFO - plugin_name: mysql_native_password
+2026-05-22 18:15:41,783 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-22 18:15:42,088 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:16:09,669 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:16:33,730 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-22 18:16:37,783 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-22 18:17:12,326 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:17:42,838 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:18:08,835 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:18:42,814 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:19:12,866 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:19:43,762 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:48:37,791 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:49:33,214 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:50:00,657 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:50:56,788 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:51:18,558 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:52:00,785 - WARNING - FAILED LOGIN: admin | Attempts=1 | IP=192.168.1.11
+2026-05-22 18:52:15,867 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 18:57:51,820 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 19:05:39,737 - INFO - package: mysql.connector.plugins
+2026-05-22 19:05:39,738 - INFO - plugin_name: mysql_native_password
+2026-05-22 19:05:39,740 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-22 19:05:40,051 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 19:08:03,585 - INFO - package: mysql.connector.plugins
+2026-05-22 19:08:03,585 - INFO - plugin_name: mysql_native_password
+2026-05-22 19:08:03,587 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-22 19:08:03,878 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 19:38:20,802 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-22 19:38:24,430 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-22 21:35:45,945 - INFO - package: mysql.connector.plugins
+2026-05-22 21:35:45,945 - INFO - plugin_name: mysql_native_password
+2026-05-22 21:35:45,949 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-22 21:35:46,332 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 21:54:32,466 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-22 21:54:44,643 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-22 23:08:34,413 - WARNING - FAILED LOGIN: amira arioua | Attempts=1 | IP=192.168.1.11
+2026-05-22 23:14:54,529 - WARNING - FAILED LOGIN: amira arioua | Attempts=2 | IP=192.168.1.11
+2026-05-22 23:15:15,606 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 23:17:47,135 - INFO - SUCCESS LOGIN: amira arioua | Role=turbine_manager | IP=192.168.1.11
+2026-05-22 23:23:39,325 - WARNING - FAILED LOGIN: admin | Attempts=1 | IP=192.168.1.11
+2026-05-22 23:23:52,355 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 23:25:26,856 - INFO - SUCCESS LOGIN: imane chalabi | Role=faults_manager | IP=192.168.1.11
+2026-05-22 23:28:37,307 - INFO - SUCCESS LOGIN: amira arioua | Role=turbine_manager | IP=192.168.1.11
+2026-05-22 23:33:44,752 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-22 23:36:30,193 - INFO - SUCCESS LOGIN: maintenance | Role=maintenance | IP=192.168.1.11
+2026-05-22 23:46:00,527 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-23 00:09:54,525 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-23 00:42:43,816 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-23 02:22:40,630 - INFO - package: mysql.connector.plugins
+2026-05-23 02:22:40,630 - INFO - plugin_name: mysql_native_password
+2026-05-23 02:22:40,634 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-23 02:22:41,090 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=127.0.0.1
+2026-05-23 10:55:55,572 - INFO - package: mysql.connector.plugins
+2026-05-23 10:55:55,572 - INFO - plugin_name: mysql_native_password
+2026-05-23 10:55:55,576 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-23 10:55:56,063 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-23 12:46:22,205 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-23 13:18:09,831 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-23 18:08:41,574 - INFO - package: mysql.connector.plugins
+2026-05-23 18:08:41,575 - INFO - plugin_name: mysql_native_password
+2026-05-23 18:08:41,577 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-23 18:08:41,966 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-23 22:13:46,048 - INFO - package: mysql.connector.plugins
+2026-05-23 22:13:46,050 - INFO - plugin_name: mysql_native_password
+2026-05-23 22:13:46,052 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-23 22:13:46,378 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-23 22:39:42,134 - INFO - package: mysql.connector.plugins
+2026-05-23 22:39:42,134 - INFO - plugin_name: mysql_native_password
+2026-05-23 22:39:42,137 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-23 22:39:42,526 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-24 21:21:04,897 - INFO - package: mysql.connector.plugins
+2026-05-24 21:21:04,898 - INFO - plugin_name: mysql_native_password
+2026-05-24 21:21:04,900 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-24 21:21:05,386 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-24 21:54:57,044 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-24 21:55:01,417 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-24 22:47:34,018 - WARNING - FAILED LOGIN (Unknown user): chalabi imane | IP=192.168.1.11
+2026-05-24 22:48:07,951 - WARNING - FAILED LOGIN (Unknown user): chalabi imane | IP=192.168.1.11
+2026-05-24 22:48:59,607 - WARNING - FAILED LOGIN: admin | Attempts=1 | IP=192.168.1.11
+2026-05-24 22:49:10,458 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-24 22:54:00,912 - INFO - SUCCESS LOGIN: chalabi imane | Role=faults_manager | IP=192.168.1.11
+2026-05-24 23:17:16,920 - INFO - SUCCESS LOGIN: amira arioua | Role=turbine_manager | IP=192.168.1.11
+2026-05-24 23:34:30,242 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-28 12:36:49,662 - INFO - package: mysql.connector.plugins
+2026-05-28 12:36:49,664 - INFO - plugin_name: mysql_native_password
+2026-05-28 12:36:49,668 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-28 12:36:50,192 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-28 14:22:55,427 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-28 14:38:40,537 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-28 15:35:14,442 - INFO - package: mysql.connector.plugins
+2026-05-28 15:35:14,443 - INFO - plugin_name: mysql_native_password
+2026-05-28 15:35:14,446 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-28 15:35:14,689 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=127.0.0.1
+2026-05-28 17:14:03,186 - INFO - SUCCESS LOGIN: maintenance1 | Role=maintenance | IP=192.168.1.11
+2026-05-28 17:25:35,604 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-28 17:27:22,107 - WARNING - FAILED LOGIN (Unknown user): maintenace1 | IP=192.168.1.11
+2026-05-28 17:27:38,554 - INFO - SUCCESS LOGIN: maintenance1 | Role=maintenance | IP=192.168.1.11
+2026-05-28 17:34:35,311 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-28 17:36:32,294 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-28 17:36:36,357 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-28 17:39:01,606 - INFO - SUCCESS LOGIN: maintenance1 | Role=maintenance | IP=192.168.1.11
+2026-05-29 21:35:47,789 - INFO - package: mysql.connector.plugins
+2026-05-29 21:35:47,791 - INFO - plugin_name: mysql_native_password
+2026-05-29 21:35:47,793 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2026-05-29 21:35:48,244 - INFO - SUCCESS LOGIN: admin | Role=admin | IP=192.168.1.11
+2026-05-29 21:36:39,726 - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-05-29 21:36:43,417 - WARNING - From c:\Users\ARWA STORE computers\Desktop\SmartGridV01\.venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-05-29 21:49:31,888 - INFO - SUCCESS LOGIN: amira arioua | Role=turbine_manager | IP=192.168.1.11
