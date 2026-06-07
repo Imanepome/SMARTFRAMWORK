@@ -2,8 +2,9 @@ import mysql.connector
 
 def get_connection():
     return mysql.connector.connect(
-        host="localhost",
+        host="acela.proxy.rlwy.net",
+        port=14633,
         user="root",
-        password="",   # إذا عندك password ضعها هنا
-        database="smartgrid_db"
+        password="vvvwjGTizyfJFsNENCikUZtZAIzwXflg",
+        database="railway"
     )
