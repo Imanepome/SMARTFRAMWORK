@@ -242,10 +242,11 @@ hr { border: none; border-top: 1px solid #E2E6EE !important; margin: 1.25rem 0 !
 # ==========================================================
 def get_connection():
     return mysql.connector.connect(
-        host="localhost",
+        host="acela.proxy.rlwy.net",
+        port=14633,
         user="root",
-        password="",
-        database="smartgrid_db",
+        password="vvvwjGTizyfJFsNENCikUZtZAIzwXflg",
+        database="railway"
     )
 
 

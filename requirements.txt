@@ -12,3 +12,5 @@ imbalanced-learn
 catboost
 openpyxl
 reportlab
+tensorflow
+keras

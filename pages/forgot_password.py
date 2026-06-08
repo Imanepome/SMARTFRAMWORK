@@ -158,8 +158,15 @@ if username:
                 st.session_state.otp_attempts = 0
                 st.session_state.otp_verified = False
 
-                send_otp(email, st.session_state.otp)
-                st.success("OTP sent successfully ✅ (Valid for 5 minutes)")
+                success = send_otp(
+                 email,
+                 st.session_state.otp
+                 )
+
+                if success:
+                 st.success("OTP sent successfully ✅ (Valid for 5 minutes)")
+                else:
+                 st.error("Failed to send OTP ❌")
 
                 
 

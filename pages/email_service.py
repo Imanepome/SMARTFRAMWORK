@@ -1,35 +1,58 @@
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 import random
-from sendgrid import SendGridAPIClient
-from sendgrid.helpers.mail import Mail
-from python_http_client.exceptions import HTTPError
 
-SENDGRID_API_KEY = "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"
-SENDER_EMAIL = "chalabiimane53@gmail.com"
+EMAIL_ADDRESS = "chalabiimane53@gmail.com"
+EMAIL_PASSWORD = "clwn jxrf ljve fasv"
+
 
 def generate_otp():
     return str(random.randint(100000, 999999))
 
-def send_otp(email, otp):
-    print("Starting send_otp...")
-    print("Recipient:", email)
 
-    message = Mail(
-        from_email=SENDER_EMAIL,
-        to_emails=email,
-        subject="Smart Grid Security OTP",
-        html_content=f"<h1>{otp}</h1>"
-    )
+def send_otp(email, otp):
 
     try:
-        sg = SendGridAPIClient(SENDGRID_API_KEY)
-        print("SendGrid client created")
+        msg = MIMEMultipart()
 
-        response = sg.send(message)
-    except HTTPError as e:
-        print("Status:", e.status_code)
-        print("Body:", e.body)
+        msg["From"] = EMAIL_ADDRESS
+        msg["To"] = email
+        msg["Subject"] = "Smart Grid Security OTP"
 
-        
+        body = f"""
+Hello,
+
+Your OTP code is:
+
+{otp}
+
+This code is valid for 5 minutes.
+
+Regards,
+FactoryNova Team
+"""
+
+        msg.attach(MIMEText(body, "plain"))
+
+        server = smtplib.SMTP("smtp.gmail.com", 587)
+        server.starttls()
+
+        server.login(
+            EMAIL_ADDRESS,
+            EMAIL_PASSWORD
+        )
+
+        server.sendmail(
+            EMAIL_ADDRESS,
+            email,
+            msg.as_string()
+        )
+
+        server.quit()
+
+        return True
 
     except Exception as e:
-        print("ERROR:", e)
+        print("Email Error:", e)
+        return False
