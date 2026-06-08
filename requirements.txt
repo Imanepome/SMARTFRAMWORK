@@ -12,5 +12,5 @@ imbalanced-learn
 catboost
 openpyxl
 reportlab
-tensorflow
-keras
+tensorflow==2.16.1
+keras==3.3.3
